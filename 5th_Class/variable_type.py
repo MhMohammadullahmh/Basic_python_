@@ -38,6 +38,11 @@ print(x,y,z)
 
 print("----------------------Another way-----------------------")
 
+x,y=10,"Mdullah"   #ak line e 2 ta variable call comma diye
+
+print("Number:",x)
+print("Name:",y)
+
 
 
 
